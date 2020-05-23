@@ -1,0 +1,38 @@
+* How to linux
+  - This guide is written to show a friend ~da wae~
+* Audience
+  - not a computer science student or crazy linux autist
+  - electrical engineer probably working on embedded hardware
+* Context
+  - My guess is that you wanna dive into linux but have no idea what
+    to do or learn?
+  - So I will define some objectives for you.
+  - My assumption is that you want to get comfortable working in linux
+  - to do so you need some basics
+    - terminal-fu!
+      - navigation
+      - text editing
+* Operating System
+  Arch linux is great for learning but it is a chore to setup and
+  debug. And considering that you are a electrical engineer, I think
+  you would likely work in ~Ubuntu~ so lets start from there.
+* Things to do on Ubuntu
+  1. Setup and ricing
+     I think configuring the OS to your liking is fun and in the
+     process you will learn somethings about working in linux in
+     general.
+     1. The default things that came with ubuntu sucks
+* Assignments/Exercises
+** Better shell, install and change default shell to fish
+   https://www.vultr.com/docs/installing-fish-shell-on-ubuntu
+** Learn vim
+   - I use emacs now but I think vim would be more suitable for an
+   electrical engineer.
+   - I am sorry but I don't know how I learnt vim. I just used it and
+   it soon became muscle memory
+   - Try printing out the keyboard shortcuts picture and placing it on
+     your table, http://www.viemu.com/vi-vim-cheat-sheet.gif
+** Learn to read and setup github project instructions
+   - go install this https://github.com/amix/vimrc
+** Use Ranger
+   - https://www.digitalocean.com/community/tutorials/installing-and-using-ranger-a-terminal-file-manager-on-a-ubuntu-vps
